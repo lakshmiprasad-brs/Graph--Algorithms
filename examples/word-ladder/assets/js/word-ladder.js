@@ -1,8 +1,4 @@
 /** 
-Author : Build Rise Shine 
-
-Created : 2023 
-
 Script : Word Ladder
 
 Description : Write an algorithm for word ladder for given start and end words.
@@ -19,7 +15,6 @@ Description : Write an algorithm for word ladder for given start and end words.
     - Given two words, beginWord and endWord, and a dictionary wordList, return the number of words 
     in the shortest transformation sequence from beginWord to endWord, or 0 if no such sequence exists.
 
-(c) Copyright by BRS Studio. 
 **/
 
 /** 
